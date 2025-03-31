@@ -10,7 +10,8 @@
   "license": "ISC",
   "description": "BlogApp to learn fullstack development",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongodb": "^6.15.0"
   },
   "devDependencies": {
     "concurrently": "^9.1.2",
