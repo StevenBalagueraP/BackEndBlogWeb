@@ -1,0 +1,19 @@
+{
+  "name": "backendblogweb",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon"
+  },
+  "keywords": [],
+  "author": "Steven Balaguera",
+  "license": "ISC",
+  "description": "BlogApp to learn fullstack development",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "nodemon": "^3.1.9"
+  }
+}
